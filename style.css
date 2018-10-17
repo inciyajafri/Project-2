@@ -1,3 +1,17 @@
 body {
 background-color: coral;
 }
+h1 {
+  font-family: 'Charmonman';
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Amatic+SC';
+  color: white;
+  font-weight:bold;
+  text-align: center;
+  font-size: 50px;
+}
