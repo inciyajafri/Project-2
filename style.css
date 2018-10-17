@@ -30,6 +30,10 @@ h5{
   text-align: center;
   font-size: 50px;
 }
+h6{
+  font-family: "Charmonman";
+  color: white;
+}
 nav {
   list-style-type: none;
   margin: 0;
