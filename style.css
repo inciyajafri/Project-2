@@ -54,6 +54,9 @@ nav li a {
 nav li a:hover {
   background-color: #111;
 }
+ul{ 
+  list-style: none;
+}
 section {
   margin: 20px auto;
   align-items: center;
