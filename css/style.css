@@ -81,6 +81,8 @@ nav li a:hover {
 }
 ul{ 
   list-style: none;
+  text-align:center;
+  object-position: center;
 }
 section {
   margin: 20px auto;
