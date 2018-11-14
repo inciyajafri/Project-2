@@ -86,4 +86,8 @@ section {
 img{
   align-items: center;
 }
- 
+.homepage img{
+  height:500px;
+  width: 250px;
+}
+  
