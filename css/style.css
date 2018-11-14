@@ -62,10 +62,6 @@ nav {
   object-position: center;
 }
 
-nav li {
-  float: center;
-}
-
 nav li a {
   display: block;
   color: white;
