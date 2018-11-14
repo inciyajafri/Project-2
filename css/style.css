@@ -14,6 +14,11 @@ text-align: center;
   font-size: 15px;
   text-align: center;
 }
+.places {
+  font-family: 'Amatic+SC';
+  color: white;
+  font-size: 30px;
+  text-align: center;
 
 h3 {
   font-family: 'Amatic+SC';
