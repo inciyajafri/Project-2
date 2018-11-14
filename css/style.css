@@ -4,7 +4,6 @@ text-align: center;
 }
 .navigation {
 text-align: center;
-padding: 14px 16px;
 text-decoration: none;
 font-family: 'Charmonman'
 list-style-type: none;
@@ -14,8 +13,9 @@ overflow: hidden;
 background-color: #333;
 }
 .image {
-
-
+width:400;
+margin:10x;
+}
 h1 {
   font-family: 'Charmonman';
   color: white;
