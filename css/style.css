@@ -2,6 +2,9 @@ body {
 background-color: coral;
 text-align: center;
 }
+.navigation {
+text-align: center;
+}
 h1 {
   font-family: 'Charmonman';
   color: white;
