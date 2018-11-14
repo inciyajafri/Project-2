@@ -77,6 +77,7 @@ nav li a {
 
 nav li a:hover {
   background-color: #111;
+  align-content:center;
 }
 ul{ 
   list-style: none;
