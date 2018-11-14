@@ -2,20 +2,7 @@ body {
 background-color: coral;
 text-align: center;
 }
-.navigation {
-text-align: center;
-font-family: 'Charmonman'
-list-style-type: none;
-margin: 0;
-padding: 0;
-overflow: hidden;
-background-color: brown;
-}
-img.image {
-width:400;
-margin:10x;
-}
-h1 {
+.description {
   font-family: 'Charmonman';
   color: white;
   font-size: 50px;
